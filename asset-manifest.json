@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FillEase/static/css/main.19ffc4de.css",
+    "main.js": "/FillEase/static/js/main.836cca41.js",
+    "static/js/453.ed3810f9.chunk.js": "/FillEase/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/FillEase/index.html",
+    "main.19ffc4de.css.map": "/FillEase/static/css/main.19ffc4de.css.map",
+    "main.836cca41.js.map": "/FillEase/static/js/main.836cca41.js.map",
+    "453.ed3810f9.chunk.js.map": "/FillEase/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19ffc4de.css",
+    "static/js/main.836cca41.js"
+  ]
+}
